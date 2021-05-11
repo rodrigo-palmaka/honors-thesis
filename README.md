@@ -13,8 +13,10 @@ through the 2020-21 academic year at the University of California, Berkeley.
 
 #### notebooks: this folder will house all .ipynb files containing executable code used for machine learning training.
 
-#### outputs: text outputs of prediction models.
+#### Final_Prospectus.pdf: prospectus providing a summary of the goals of this project, methodology, and ethical questions.
 
-#### credit_rating_prospectus_9_27.pdf: prospectus providing a summary of the goals of this project, methodology, and ethical questions.
+#### Honors_Thesis_5_10.pdf: up to date version of full thesis written component.
+
+#### Symposium_Presentation: final copy of slide deck presented at 2021 Data Science Honors Symposium.
 
 #### requirements.txt: list of packages/dependencies.   
